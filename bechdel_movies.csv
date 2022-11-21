@@ -1,0 +1,127 @@
+,movie_name,release_year,rating,imbd_votes,genre,bechdel_pass
+0,metropolis,1927,8.4,40730,"['adventure', 'drama', 'sci-fi']",0
+1,frankenstein,1931,8.0,23522,"['drama', 'horror', 'sci-fi']",0
+2,vampyr,1932,7.6,4005,"['fantasy', 'horror']",1
+3,ninotchka,1939,7.9,6951,"['comedy', 'romance']",1
+4,casablanca,1942,8.8,170874,"['drama', 'romance', 'war']",0
+5,marty,1955,7.7,6379,"['drama', 'romance']",1
+6,vertigo,1958,8.6,93524,"['crime', 'mystery', 'romance', 'thriller']",0
+7,l'avventura,1960,7.9,6963,"['drama', 'mystery']",1
+8,psycho,1960,8.7,146915,"['drama', 'horror', 'mystery', 'thriller', 'thriller']",1
+9,charade,1963,8.0,22815,"['comedy', 'mystery', 'romance', 'thriller']",0
+10,klute,1971,7.2,6901,"['mystery', 'romance', 'thriller']",1
+11,badlands,1973,7.9,16753,"['crime', 'drama', 'romance', 'thriller']",0
+12,chinatown,1974,8.5,80698,"['crime', 'drama', 'mystery', 'thriller']",0
+13,jaws,1975,8.3,140982,['thriller'],1
+14,nashville,1975,7.7,9315,"['drama', 'music']",1
+15,rocky,1976,8.1,100022,"['drama', 'romance', 'sport']",0
+16,halloween,1978,7.9,64690,"['horror', 'thriller']",1
+17,halloween,1978,7.9,64690,"['horror', 'thriller']",1
+18,halloween,1978,7.9,64690,"['horror', 'thriller']",1
+19,superman,1978,7.3,51172,"['action', 'family', 'sci-fi']",0
+20,alien,1979,8.5,184471,"['adventure', 'horror', 'sci-fi', 'thriller']",1
+21,airplane!,1980,7.8,57692,"['comedy', 'romance']",1
+22,maniac,1980,6.2,3382,"['drama', 'horror', 'thriller']",1
+23,maniac,1980,6.2,3382,"['drama', 'horror', 'thriller']",1
+24,excalibur,1981,7.4,24550,"['adventure', 'drama', 'fantasy']",0
+25,frances,1982,7.2,2756,"['biography', 'drama']",1
+26,gandhi,1982,8.2,52160,"['biography', 'drama', 'history']",0
+27,tron,1982,6.7,25903,"['action', 'adventure', 'sci-fi', 'thriller', 'sci-fi']",0
+28,krull,1983,5.9,8246,"['fantasy', 'action', 'adventure', 'sci-fi']",0
+29,dune,1984,6.5,38954,"['action', 'adventure', 'sci-fi']",1
+30,dune,1984,6.5,38954,"['action', 'adventure', 'sci-fi']",1
+31,amadeus,1984,8.4,99138,"['biography', 'drama', 'music']",1
+32,dune,1984,6.5,38954,"['action', 'adventure', 'sci-fi']",1
+33,starman,1984,6.9,14204,"['adventure', 'drama', 'romance', 'sci-fi']",0
+34,supergirl,1984,4.1,6576,"['action', 'adventure', 'sci-fi']",1
+35,legend,1985,6.2,20907,"['fantasy', 'adventure', 'romance']",1
+36,brazil,1985,8.0,77350,"['drama', 'fantasy', 'sci-fi']",1
+37,fletch,1985,6.7,17336,"['comedy', 'crime', 'mystery']",0
+38,legend,1985,6.2,20907,"['fantasy', 'adventure', 'romance']",1
+39,witness,1985,7.6,30705,"['drama', 'romance', 'thriller']",1
+40,ghostbusters,1986,6.9,237,"['animation', 'comedy', 'fantasy', 'sci-fi', 'horror']",1
+41,aliens,1986,8.5,173518,"['action', 'sci-fi', 'thriller']",1
+42,highlander,1986,7.2,41243,"['action', 'fantasy']",0
+43,manhunter,1986,7.2,21649,"['crime', 'thriller']",0
+44,platoon,1986,8.2,110867,"['action', 'drama', 'war']",0
+45,ghostbusters,1986,6.9,237,"['animation', 'comedy', 'fantasy', 'sci-fi', 'horror']",0
+46,hellraiser,1987,7.0,22922,['horror'],1
+47,moonstruck,1987,7.1,15879,"['comedy', 'romance', 'drama']",1
+48,predator,1987,7.8,90730,"['action', 'adventure', 'sci-fi', 'thriller']",0
+49,willow,1988,7.1,33506,"['action', 'adventure', 'drama', 'fantasy', 'romance']",1
+50,leviathan,1989,5.3,4751,"['adventure', 'horror', 'mystery', 'sci-fi', 'thriller']",1
+51,batman,1989,7.6,112731,"['crime', 'drama', 'thriller', 'action', 'adventure', 'crime']",0
+52,leviathan,1989,5.3,4751,"['adventure', 'horror', 'mystery', 'sci-fi', 'thriller']",1
+53,heathers,1989,7.3,25236,"['comedy', 'crime']",1
+54,goodfellas,1990,8.8,234582,"['crime', 'drama', 'thriller']",1
+55,misery,1990,7.8,41563,['thriller'],0
+56,tremors,1990,7.1,30553,"['action', 'comedy', 'horror', 'thriller']",1
+57,jfk,1991,8.0,60406,"['biography', 'drama', 'history', 'mystery', 'thriller']",1
+58,unforgiven,1992,8.3,101270,"['drama', 'western']",1
+59,hero,1992/I,6.3,10573,"['comedy', 'drama']",0
+60,cliffhanger,1993,6.2,34880,"['action', 'adventure', 'thriller']",0
+61,dave,1993,6.8,20807,"['comedy', 'romance']",1
+62,philadelphia,1993,7.6,54221,['drama'],0
+63,tombstone,1993,7.7,44204,"['action', 'drama', 'history', 'romance', 'western']",1
+64,clerks.,1994,8.0,90972,['comedy'],0
+65,assassins,1995,6.0,23681,"['action', 'thriller', 'crime']",0
+66,braveheart,1995,8.4,245652,"['action', 'biography', 'drama', 'history', 'war']",0
+67,casino,1995,8.1,111223,"['biography', 'crime', 'drama']",0
+68,copycat,1995,6.5,17335,"['crime', 'mystery', 'thriller']",1
+69,hackers,1995,5.8,27009,"['action', 'crime', 'drama', 'thriller']",0
+70,kids,1995,6.8,26546,"['crime', 'drama']",1
+71,bound,1996,7.5,23772,"['crime', 'drama', 'thriller']",1
+72,basquiat,1996,6.7,8016,"['biography', 'drama']",0
+73,bound,1996,7.5,23772,"['crime', 'drama', 'thriller']",1
+74,fargo,1996,8.3,168176,"['crime', 'drama', 'thriller']",0
+75,swingers,1996,7.6,32427,"['comedy', 'drama']",0
+76,trainspotting,1996,8.2,153782,"['crime', 'drama']",0
+77,suburbia,1996,6.5,4552,"['comedy', 'drama']",1
+78,scream,1996/I,7.2,92543,"['crime', 'horror', 'mystery', 'thriller']",1
+79,scream,1996/I,7.2,92543,"['crime', 'horror', 'mystery', 'thriller']",1
+80,anastasia,1997,6.6,16844,"['animation', 'adventure', 'drama', 'family', 'musical', 'animation', 'family']",1
+81,contact,1997,7.4,75043,"['drama', 'mystery', 'sci-fi', 'thriller']",1
+82,face/off,1997,7.3,103386,"['action', 'crime', 'drama', 'sci-fi', 'thriller']",0
+83,gattaca,1997,7.8,72063,"['drama', 'romance', 'sci-fi', 'thriller']",0
+84,titanic,1997,7.4,244771,"['drama', 'history', 'romance']",1
+85,godzilla,1998,4.9,60310,"['action', 'horror', 'sci-fi', 'thriller']",0
+86,antz,1998,6.8,37825,"['animation', 'adventure', 'comedy', 'family']",1
+87,blade,1998,7.0,65885,"['action', 'adventure', 'fantasy', 'horror', 'thriller']",0
+88,godzilla,1998,4.9,60310,"['action', 'horror', 'sci-fi', 'thriller']",1
+89,pleasantville,1998,7.5,49669,"['comedy', 'drama', 'fantasy']",1
+90,ronin,1998,7.2,58201,"['action', 'crime', 'thriller']",0
+91,sphere,1998,5.6,31924,"['drama', 'horror', 'mystery', 'sci-fi', 'thriller']",0
+92,stepmom,1998,6.2,18714,"['comedy', 'drama']",1
+93,beloved,1998/I,5.6,4014,"['drama', 'mystery']",1
+94,8mm,1999,6.3,48212,"['crime', 'mystery', 'thriller']",0
+95,edtv,1999,6.1,21865,['comedy'],0
+96,election,1999,7.4,37868,"['comedy', 'drama']",1
+97,magnolia,1999,8.0,123476,['drama'],1
+98,gladiator,2000,8.4,286067,"['action', 'adventure', 'drama']",0
+99,memento,2000,8.7,281027,"['crime', 'drama', 'mystery', 'thriller']",0
+100,traffic,2000,7.8,86662,"['crime', 'drama', 'thriller']",1
+101,unbreakable,2000,7.3,98767,"['drama', 'fantasy', 'mystery', 'thriller']",0
+102,x-men,2000,7.4,122149,"['action', 'sci-fi']",0
+103,hannibal,2001,6.4,75788,"['crime', 'thriller']",1
+104,antitrust,2001,6.0,16453,"['drama', 'thriller']",0
+105,blow,2001,7.4,71334,"['biography', 'crime', 'drama']",0
+106,hannibal,2001,6.4,75788,"['crime', 'thriller']",1
+107,monkeybone,2001,4.5,8258,"['animation', 'comedy', 'fantasy', 'romance']",1
+108,signs,2002,6.9,113119,"['drama', 'mystery', 'sci-fi', 'thriller']",0
+109,solaris,2002,6.2,33541,"['drama', 'mystery', 'romance', 'sci-fi']",0
+110,spider-man,2002,7.4,169898,"['action', 'adventure', 'fantasy', 'sci-fi', 'action', 'adventure', 'sci-fi', 'thriller']",0
+111,xxx,2002,5.6,53505,"['action', 'adventure', 'crime']",0
+112,insomnia,2002/I,7.3,69635,"['crime', 'drama', 'mystery', 'thriller']",0
+113,basic,2003,6.3,26295,"['crime', 'drama', 'mystery', 'thriller']",1
+114,catwoman,2004,3.2,35065,"['action', 'crime', 'fantasy']",1
+115,catwoman,2004,3.2,35065,"['action', 'crime', 'fantasy']",1
+116,cellular,2004,6.5,32920,"['action', 'crime', 'thriller']",1
+117,collateral,2004,7.8,106866,"['crime', 'drama', 'thriller']",0
+118,sideways,2004,7.8,70349,"['comedy', 'drama', 'romance']",1
+119,hellboy,2004,6.8,68619,"['action', 'adventure', 'fantasy']",0
+120,crash,2004/I,8.0,174003,"['crime', 'drama']",1
+121,crash,2004/I,8.0,174003,"['crime', 'drama']",1
+122,domino,2005,5.9,32949,"['action', 'crime', 'drama', 'thriller']",1
+123,slither,2006,6.6,26497,"['comedy', 'horror', 'sci-fi']",1
+124,juno,2007,7.9,152436,"['comedy', 'drama']",1
+125,watchmen,2009,7.8,135229,"['action', 'crime', 'fantasy', 'mystery', 'sci-fi', 'thriller']",1
